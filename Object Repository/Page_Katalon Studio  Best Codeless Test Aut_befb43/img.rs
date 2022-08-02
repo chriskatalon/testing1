@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>918c23cf-a07c-4289-a199-996c37a86402</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_widget_1640670204676']/div/div/div/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Easy to Use. Robust to Expand.&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3e145b86-056b-401c-a4a5-7bd9da36e9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://katalon.com/hubfs/Katalon_December2021/Images/Robust_to_expand.svg</value>
+      <webElementGuid>902813dc-9d55-4e6f-b494-dfd622f25215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Easy to Use. Robust to Expand.</value>
+      <webElementGuid>2a0dd562-060d-4759-86a2-35281ac49dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>3e89f67e-6b16-4952-a39b-33871cf230c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_widget_1640670204676&quot;)/div[@class=&quot;top-image-with-content-wrapper&quot;]/div[@class=&quot;tiwcIn&quot;]/div[@class=&quot;page-center&quot;]/div[@class=&quot;item_number_feature background_type_1 play_animation&quot;]/div[@class=&quot;image_number_feature&quot;]/img[1]</value>
+      <webElementGuid>978f0b2e-f0ef-4784-951e-7757e6f98ad9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_widget_1640670204676']/div/div/div/div[2]/div/img</value>
+      <webElementGuid>901079d4-23d7-4885-bcfe-5c5bf1a82ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Easy to Use. Robust to Expand.']</value>
+      <webElementGuid>7eef32f3-210c-430f-b785-d069c852795d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/img</value>
+      <webElementGuid>ac60dd25-0ffa-4e40-8188-12bc22a33132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://katalon.com/hubfs/Katalon_December2021/Images/Robust_to_expand.svg' and @alt = 'Easy to Use. Robust to Expand.']</value>
+      <webElementGuid>60a0e968-1978-476a-89f3-8d5434ed8445</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
