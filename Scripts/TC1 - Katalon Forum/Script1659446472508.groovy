@@ -33,5 +33,5 @@ WebUI.click(findTestObject('Object Repository/Page_Katalon Community - Discuss, 
 
 WebUI.click(findTestObject('Object Repository/Page_Katalon Community - Discuss, learn, an_96da7d/span_Downloading the files in headless chrome'))
 
-WebUI.acceptAlert()
+WebUI.closeBrowser()
 
