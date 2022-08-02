@@ -3,6 +3,16 @@
    <description></description>
    <name>TC2 - Google</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>1979</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <testCaseGuid>582d6a5c-9631-4b31-959f-e2b0b5d1945d</testCaseGuid>
 </TestCaseEntity>
